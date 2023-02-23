@@ -4,7 +4,7 @@ description: >-
   the advantages it offers to users of a DECENOMY coin.
 ---
 
-# DECENOMY Explorer
+# DECENOMY Explorer.
 
 ### Context
 
