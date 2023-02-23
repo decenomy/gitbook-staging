@@ -4,7 +4,7 @@ description: >-
   the advantages it offers to users of a DECENOMY coin.
 ---
 
-# DECENOMY Explorer.
+# DECENOMY Explorer
 
 ### Context
 
@@ -12,7 +12,7 @@ A blockchain explorer is a web based tool that enables users to search and view 
 
 The explorers play a vital role in analyzing the health and transaction history of a blockchain network. They offer a comprehensive and transparent view of the network's transactions, allowing users to track and trace the flow of cryptocurrency across the network. This makes them an essential tool for researchers, investors, and anyone interested in understanding the inner workings of a blockchain network.
 
-### Main Link
+### Link
 
 <mark style="color:blue;"></mark>[<mark style="color:blue;">https://explorer.decenomy.net</mark>](https://explorer.decenomy.net)<mark style="color:blue;"></mark>
 
