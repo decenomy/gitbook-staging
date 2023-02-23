@@ -1,10 +1,10 @@
 ---
 description: >-
   The following documentation aims to provide a guide on using the explorer and
-  the advantages it offers to users, of a DECENOMY coin.
+  the advantages it offers to users of a DECENOMY coin.
 ---
 
-# DECENOMY Explorer
+# DECENOMY Explorer.
 
 ### Context
 
