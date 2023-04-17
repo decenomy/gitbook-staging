@@ -11,5 +11,7 @@
   * [Explorer API](decenomy-explorer/explorer-api.md)
 * [DECENOMY Multinode Script](decenomy-multinode-script/README.md)
   * [Environment basis](decenomy-multinode-script/environment-basis.md)
+  * [Script Screen Overview](decenomy-multinode-script/script-screen-overview.md)
   * [Menu Structure](decenomy-multinode-script/menu-structure.md)
   * [Main Menu](decenomy-multinode-script/main-menu.md)
+  * [Coin Selection](decenomy-multinode-script/coin-selection.md)
