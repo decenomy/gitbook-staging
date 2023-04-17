@@ -20,4 +20,23 @@ Once the installation is completed the coin selection screen for installation wi
 
 **#Picture Script\_22\_coin\_selection**
 
-Moving forward in the script, everything is related to the coin that was selected on the Main Menu. In this case, for example, it is Sapphire.
+Moving forward in the script, everything is related to the coin that was selected on the Main Menu. In this case, for example, it is Sapphire.\
+\
+Moving forward in the script, everything is related to the coin that was selected on the Main Menu. In this case, for example, it is Sapphire.\
+
+
+**1 - Reinstall masternode multinode**
+
+This option will reinstall the masternode wallet.
+
+**2 - Masternode multinode management**
+
+All the tasks related to the multinodes can be performed within this option. The available options are List, Add, and Delete.
+
+**3 - Stats wallet and masternode**
+
+This option will open the menus to view wallet statistics and masternode statistics.
+
+**4 - Wallet management**
+
+A handful of tools to manage the wallet, such as wallet update, bootstraps, peers management, addnodes, restart service, and delete wallet, will be available in this option.

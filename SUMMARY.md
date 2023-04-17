@@ -14,4 +14,6 @@
   * [Script Screen Overview](decenomy-multinode-script/script-screen-overview.md)
   * [Menu Structure](decenomy-multinode-script/menu-structure.md)
   * [Main Menu](decenomy-multinode-script/main-menu.md)
-  * [Coin Selection](decenomy-multinode-script/coin-selection.md)
+  * [Coin Selection](decenomy-multinode-script/coin-selection/README.md)
+    * [Reinstall masternode multinode](decenomy-multinode-script/coin-selection/reinstall-masternode-multinode.md)
+    * [Masternode multinode management](decenomy-multinode-script/coin-selection/masternode-multinode-management.md)
