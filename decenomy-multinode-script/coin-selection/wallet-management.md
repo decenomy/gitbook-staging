@@ -4,11 +4,13 @@ description: ( Script option detailed )
 
 # Wallet management
 
+<figure><img src="../../.gitbook/assets/Script_6_0_Trans_to_wallet_management.png" alt=""><figcaption></figcaption></figure>
+
 **#Picture Script\_6\_0\_Trans\_to\_wallet\_management**
 
 When selecting **\[4] Wallet management**, a screen will appear with options to fully manage the masternode wallet.\
 \
-1 - Update wallet
+**1 - Update wallet**
 
 Similar to what is presented in the **"Wallet Statistics"** options that we checked before, the wallet version from Github and the wallet installed in the system are displayed on the screen before a confirmation to update the wallet is given. This method will not destroy the already set masternode; it will only change the binaries related to the wallet and restart the service (not the masternode). Such a process is useful in case of a mandatory wallet release or any other wallet release that needs to be updated.
 

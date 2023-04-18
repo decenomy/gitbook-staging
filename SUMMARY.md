@@ -19,3 +19,4 @@
     * [Masternode multinode management](decenomy-multinode-script/coin-selection/masternode-multinode-management.md)
     * [Stats wallet and masternode](decenomy-multinode-script/coin-selection/stats-wallet-and-masternode.md)
     * [Wallet management](decenomy-multinode-script/coin-selection/wallet-management.md)
+    * [Others](decenomy-multinode-script/coin-selection/others.md)

@@ -8,15 +8,21 @@ This menu has a dynamic result according to what is installed in the system.
 
 If the coin masternode is not installed, it will prompt to install it, as can be seen in the following picture.
 
+<figure><img src="../.gitbook/assets/Script_2_0_coin_selection.PNG" alt=""><figcaption></figcaption></figure>
+
 **#Picture Script\_20\_coin\_selection**
 
 The installation process of the masternodes will display information about the current step. It is unlikely that the installation will get stuck, even though the screen may appear frozen or the process may seem to have stopped. It is advisable to wait for some time before aborting the process abruptly.
 
 For reference, the complete automated process is presented in the picture below.
 
+<figure><img src="../.gitbook/assets/Script_2_1_wallet_installation.png" alt=""><figcaption></figcaption></figure>
+
 **#Picture Script\_21\_wallet\_installation**
 
 Once the installation is completed the coin selection screen for installation will not be available anymore and the screen of coin selection will now be this one:
+
+<figure><img src="../.gitbook/assets/Script_2_2_coin_selection.PNG" alt=""><figcaption></figcaption></figure>
 
 **#Picture Script\_22\_coin\_selection**
 

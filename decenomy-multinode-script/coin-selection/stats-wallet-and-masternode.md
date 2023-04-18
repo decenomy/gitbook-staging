@@ -4,6 +4,8 @@ description: Script option detailed
 
 # Stats wallet and masternode
 
+<figure><img src="../../.gitbook/assets/Script_5_0_Trans_to_wallet_and_masternode_stats.png" alt=""><figcaption></figcaption></figure>
+
 **#Picture Script\_5\_0\_Trans\_to\_wallet\_and\_masternode\_stats**
 
 \
@@ -12,6 +14,8 @@ When selecting **\[3] Stats Wallet and masternode**, a screen will appear with o
 ### 1 - Wallet statistics
 
 A comprehensive overview of all the necessary information to keep track of the wallet linked to the masternode.
+
+<figure><img src="../../.gitbook/assets/Script_5_1_Wallet_statistics.png" alt=""><figcaption></figcaption></figure>
 
 **#Picture Script\_5\_1\_Wallet\_statistics**
 

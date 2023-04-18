@@ -4,6 +4,8 @@ description: Screen overview and detailed options
 
 # Main Menu
 
+<figure><img src="../.gitbook/assets/Script_1_main_menu.PNG" alt=""><figcaption></figcaption></figure>
+
 **#Picture Script\_1\_main\_menu**
 
 On this first screen, we can make 3 distinct operations.
