@@ -17,4 +17,5 @@
   * [Coin Selection](decenomy-multinode-script/coin-selection.md)
     * [Reinstall masternode multinode](decenomy-multinode-script/coin-selection/reinstall-masternode-multinode.md)
     * [Masternode multinode management](decenomy-multinode-script/coin-selection/masternode-multinode-management.md)
-    * [Wallet and masternode stats](decenomy-multinode-script/coin-selection/wallet-and-masternode-stats.md)
+    * [Stats wallet and masternode](decenomy-multinode-script/coin-selection/stats-wallet-and-masternode.md)
+    * [Wallet management](decenomy-multinode-script/coin-selection/wallet-management.md)

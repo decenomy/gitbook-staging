@@ -2,7 +2,7 @@
 description: Script option detailed
 ---
 
-# Wallet and masternode stats
+# Stats wallet and masternode
 
 **#Picture Script\_5\_0\_Trans\_to\_wallet\_and\_masternode\_stats**
 
