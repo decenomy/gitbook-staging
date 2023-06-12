@@ -20,3 +20,4 @@
     * [Stats wallet and masternode](decenomy-multinode-script/coin-selection/stats-wallet-and-masternode.md)
     * [Wallet management](decenomy-multinode-script/coin-selection/wallet-management.md)
     * [Others](decenomy-multinode-script/coin-selection/others.md)
+* [Blockchain Professionals: The Technical Challenges You Need to Know](blockchain-professionals-the-technical-challenges-you-need-to-know.md)
