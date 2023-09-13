@@ -17,7 +17,7 @@ After utilizing the search box to obtain more information regarding a specific w
 Refers to the block height at which a transaction containing the queried address occurred.\
 \
 **" Timestamp "**\
-**E**xact date and time when the transaction event occurred.\
+Exact date and time when the transaction event occurred.\
 \
 **" Confirmations "**\
 Indicates the number of times the transaction has been confirmed on the blockchain by the time of the query.\
@@ -33,5 +33,7 @@ The field is color-coded to indicate whether the transaction resulted in a credi
 The balance the wallet has after the transaction happens\
 
 
-To obtain more details about a specific transaction, the user can select the Tx ID on this screen, which will provide access to a more detailed view with additional information. \
+To obtain more details about a specific transaction, the user can select the Tx ID on this screen, which will provide access to a more detailed view with additional information.&#x20;
+
+\
 For further in-depth information, please refer to the [<mark style="color:blue;">Search Tx ID</mark>](search-by-tx-id.md) guide.

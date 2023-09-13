@@ -14,4 +14,4 @@ Clicking the "Node List" button will display information for the addnodes.
 <figure><img src="../.gitbook/assets/Explorer network detail_addnodes.jpg" alt=""><figcaption></figcaption></figure>
 
 This feature can be particularly helpful if your wallet requires better connectivity to the network. For more detailed instructions on how to use addnodes, please refer to our tutorial. \
-<mark style="color:yellow;"># LINK #</mark>
+[Extra connections (addnodes)](http://127.0.0.1:5000/s/-MiHm486VotxVq44a\_Jg/tutorials/decenomy-wallet/how-to-add-addnodes)

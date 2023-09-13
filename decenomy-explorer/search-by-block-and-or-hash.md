@@ -8,7 +8,7 @@ The search box can be found in all tabs, allowing for precise queries on the exp
 
 <figure><img src="../.gitbook/assets/Explorer search box.jpg" alt=""><figcaption></figcaption></figure>
 
-After utilizing the aforementioned search box to obtain more information regarding specific block information, or when clicking on the block or hash value presented on block details ( please check <mark style="color:blue;"></mark> [<mark style="color:blue;">Latest blocks</mark>](latest-blocks.md) <mark style="color:blue;"></mark> guide ) the user will be redirected to a screen resembling the following:
+After utilizing the aforementioned search box to obtain more information regarding specific block information, or when clicking on the block or hash value presented on block details ( please check the  [<mark style="color:blue;">Latest blocks</mark>](latest-blocks.md) guide ) the user will be redirected to a screen resembling the following:
 
 ### &#x20;<mark style="background-color:red;">Detailed block info</mark>&#x20;
 
@@ -16,7 +16,9 @@ After utilizing the aforementioned search box to obtain more information regardi
 
 #### &#x20;<mark style="background-color:red;">Section 1 from block info</mark>&#x20;
 
-This board is dedicated to displaying block details, such as the hash and block height, as well as the number of confirmations the block has at the time of the query.\
+This board is dedicated to displaying block details, such as the hash and block height, as well as the number of confirmations the block has at the time of the query.
+
+\
 Additionally, it includes information on the number of transactions that occurred in that block and the creation date of the block.\
 
 
@@ -26,4 +28,4 @@ This section provides detailed information about the three transactions listed i
 \
 By selecting one of the transaction IDs, users can view its content in more detail.\
 \
-For more detailed information, about how to understand the transactions ID tab, please follow the guide on [<mark style="color:blue;">Search by Tx ID</mark>](search-by-tx-id.md#detailed-tx-id-info-case-1) <mark style="color:blue;"></mark> to learn more )
+For more detailed information, about how to understand the transactions ID tab, please follow the guide on [<mark style="color:blue;">Search by Tx ID</mark>](search-by-tx-id.md#detailed-tx-id-info-case-1) to learn more )

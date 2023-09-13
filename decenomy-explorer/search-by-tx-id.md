@@ -8,7 +8,7 @@ The search box can be found in all tabs, allowing for precise queries on the exp
 
 <figure><img src="../.gitbook/assets/Explorer search box.jpg" alt=""><figcaption></figcaption></figure>
 
-After utilizing the aforementioned search box to obtain more information regarding a specific transaction ID, or when clicking on the transaction value presented on block details ( please check [<mark style="color:blue;">Search by Block and/or Hash</mark>](search-by-block-and-or-hash.md) <mark style="color:blue;"></mark> guide ) the user will be redirected to a screen resembling the following:
+After utilizing the aforementioned search box to obtain more information regarding a specific transaction ID, or when clicking on the transaction value presented on block details ( please check the [<mark style="color:blue;">Search by Block and/or Hash</mark>](search-by-block-and-or-hash.md) guide ) the user will be redirected to a screen resembling the following:
 
 ### &#x20;<mark style="background-color:red;">Detailed Tx ID info, case 1</mark>&#x20;
 
@@ -39,7 +39,7 @@ It's worth noting that in some cases, a wallet can stake and split one input int
 
 <figure><img src="../.gitbook/assets/Explorer stake and splitting.jpg" alt=""><figcaption></figcaption></figure>
 
-The wallet in this case staked with an input of 44699 SAPP and compounded it into a new input. At the same time, it split this new input into four others.
+The wallet in this case staked with an input of 44699 SAPP and compounded into a new input. At the same time, it split this new input into four others.
 
 By referring to sections 2 and 3, it is always possible to gain insight into the reward value that a stake and a masternode receive, as well as what happens when an address stakes.
 
@@ -54,5 +54,7 @@ This type of transaction is a breakdown of a coin transfer and is not related to
 
 The " Sending Address " indicates that the transaction used a combination of 5 different wallet addresses to transfer the desired value.\
 \
-As for the "Recipients" address, it appears that the user wanted to transfer precisely 5112 SAPP to one address while sending the remaining amount of 1.9078 SAPP to another address. \
+As for the "Recipients" address, it appears that the user wanted to transfer precisely 5112 SAPP to one address while sending the remaining amount of 1.9078 SAPP to another address.&#x20;
+
+\
 It is important to note that this value already takes into account the deduction of transaction fees.
